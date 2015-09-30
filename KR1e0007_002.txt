@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.483377
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0015-002春秋公羊經傳解詁-卷第二.
 <pb:KR1e0007_SBCK_002-1a>¶
 春秋公羊經傳解詁&KR0074;公第二¶
 　　　　　　何休學¶
@@ -378,4 +382,3 @@
 　　　　　　　　注㭍阡&KR0380;伯參拾壹字¶
 　　　　　　　　音義壹阡陸伯貳拾㭍字¶
 　　　　　　　　　　　　　　　　余仁仲刋于家塾¶
-

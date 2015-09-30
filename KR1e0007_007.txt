@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.719412
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0015-007春秋公羊經傳解詁-卷第七.
 <pb:KR1e0007_SBCK_007-1a>¶
 春秋公羊經傳解詁宣公第七¶
 　　　　　　　　何休學¶
@@ -391,4 +395,3 @@
 　　　　　　　　注陸阡捌伯伍拾&KR0380;字¶
 　　　　　　　　音義伍伯伍拾陸字¶
 　　　　　　　　　　　　　　　　　　　　　仁仲比校訖¶
-

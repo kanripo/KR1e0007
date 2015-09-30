@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.808261
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0015-009春秋公羊經傳解詁-卷第九.
 <pb:KR1e0007_SBCK_009-1a>¶
 春秋公羊經傳解詁襄公第九¶
 　　　　　　　何休學¶
@@ -454,4 +458,3 @@
 　　　　　　　經傳肆阡&KR0380;伯㭍拾&KR0380;字¶
 　　　　　　　注伍阡貳伯㭍拾捌字¶
 　　　　　　　音義壹阡陸伯貳拾伍字¶
-

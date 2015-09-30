@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.851336
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0015-010春秋公羊經傳解詁-卷第十.
 <pb:KR1e0007_SBCK_010-1a>¶
 春秋公羊經傳解詁昭公第十¶
 　　　　　　　　何休學¶
@@ -494,4 +498,3 @@
 (尊尊之意也孔子曰謹權量審法度脩廢官四方/之政行焉言成周者起正居實外之○量音亮)〇十有二月¶
 已未公薨于乾侯¶
 春秋公羊卷第十(經傳肆阡捌伯&KR0380;拾㭍字/注陸阡捌伯捌/拾伍字/音義壹阡㭍伯捌拾貳字)¶
-

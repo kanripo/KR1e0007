@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.532818
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0015-003春秋公羊經傳解詁-卷第三.
 <pb:KR1e0007_SBCK_003-1a>¶
 春秋公羊經傳解詁莊公第三¶
 　　　　　　　　何休學¶
@@ -580,4 +584,3 @@
 (者降成君也日者爲臣子恩録之也殺不去/日見隱者降子赤也○去起吕反見賢徧反)公子慶父如齊(如/齊)¶
 (者奔也是時季子新酖牙慶父雖歸獄鄧扈樂猶不自信於季子故/出也不言奔者起季子不探其情不&KR0064;其罪〇樂音洛&KR0064;歩卜反)〇¶
 狄伐邢　春秋公羊卷第三¶
-

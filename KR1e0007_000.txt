@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.370259
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0015-000春秋公羊經傳解詁-序.
 <pb:KR1e0007_SBCK_000-1a>¶
 漢司空&KR0122;任城樊何休序(○陸氏音義/曰&KR0122;弋絹反)¶
 昔者孔子有云吾志在春秋行在孝經此二學¶
@@ -24,6 +28,8 @@
 　　讓隱元年嫡子作適歸含作唅召公作邵桓四年¶
 　　曰蒐作廋&KR0002;此者衆皆不敢以臆見更定姑兩存¶
 　　之以俟知者紹熈辛亥孟冬朔日建安余仁仲敬書¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0015-000春秋公羊經傳解詁-補.
 <pb:KR1e0007_SBCK_000-2a>¶
 九經三傳沿革例載有建余氏夲余所見殘夲榖梁在¶
 周香嚴家即萬卷堂余仁仲校刻者也此外有周禮亦¶
@@ -37,4 +43,3 @@
 付諸&KR1617;劂以廣其傳焉嘉慶戊辰秋七月黄丕烈識¶
 <pb:KR1e0007_SBCK_000-2b>¶
 <pb:KR1e0007_SBCK_000-2b>¶
-

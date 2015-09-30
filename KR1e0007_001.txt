@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.439537
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0015-001春秋公羊經傳解詁-卷第一.
 <pb:KR1e0007_SBCK_001-1a>¶
 春秋公羊經傳解詁隱公第一(〇陸曰解詁佳買/反下音古訓也)¶
 　　　　　　何休學(〇學者言爲此經/之學即注述之意)¶
@@ -435,4 +439,3 @@
 　　　　　　注壹萬貳拾肆字¶
 　　　　　　音義貳阡壹伯貳拾字¶
 　　　　　　　　　　　　　　余氏刋于萬卷堂¶
-

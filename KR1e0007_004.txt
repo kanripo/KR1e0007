@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊經傳解詁
-#+DATE: 2015-09-23 09:39:20
+#+DATE: 2015-09-10 22:50:17.586768
+#+PROPERTY: ID KR1e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0015-004春秋公羊經傳解詁-卷第四.
 <pb:KR1e0007_SBCK_004-1a>¶
 春秋公羊經傳解詁閔公第四¶
 　　　　　　　何休學¶
@@ -74,4 +78,3 @@
 　　　　　注壹阡叄拾字¶
 　　　　　音義壹伯柒拾壹字　仁仲比校訖¶
 <pb:KR1e0007_SBCK_004-4a>¶
-
